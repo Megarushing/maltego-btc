@@ -8,13 +8,15 @@ Requirements:
  - Maltego 4.0 or higher
  - Go 1.8+
 
-Installation:
+Pre-Installation:
 - Install Maltego in your computer https://www.maltego.com/ce-registration/
 - Install Blockchain.info Transform by Paterva in the Transform Hub of your maltego
+
+Installation:
 - Download binary from https://github.com/Megarushing/maltego-btc/releases and save it in `/usr/local/bin/` on mac, or in Windows `C:\maltego-btc\`
 - In the Mac Terminal do `chmod +x /usr/local/bin/maltego-btc`
 
-OR To Compile from sources
+OR To Compile from sources:
 - Install GoLang
 - Do `go install github.com/Megarushing/maltego-btc@latest`
 
