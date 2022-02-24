@@ -44,6 +44,18 @@ This application generates a `maltego-btc.conf` file under `$HOME/Library/Applic
  - ```icon_wallet``` – url to wallet entity icon
  - ```icon_service``` – url to service entity icon
  
+### Example Usage
+
+1- Add a bitcoin transaction to your Graph
+2- Use the transform: "Blockchain.info > To Destination Addresses" in order to get the addresses it sent to
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/2642709/155611274-933edf81-86a6-4539-9f7d-267bc41bb346.png">
+3- Select the destination addresses and convert them into wallets with the transform: "Bitcoin Explorer > Address To Wallet"
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/2642709/155611912-111b8e87-6625-4020-bb94-89b0b0d25e7b.png">
+4- Verify the destinations, and follow your investigation from there:
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/2642709/155612030-1846af3b-f971-41e4-84db-c144bbc8c9e3.png">
+
+
+
 ### Screenshots
 
 ![Screenshot](assets/screenshot-1.png)
