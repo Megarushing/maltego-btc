@@ -27,12 +27,9 @@ Setting up:
 <img width="1173" alt="image" src="https://user-images.githubusercontent.com/2642709/155597886-88a872aa-213b-4f5e-80db-762ff7b0b0f3.png">
 
 
-Recommended:
-- I recommend also installing maltegos library standard blockchain.com transform to use alongside
-
 ### Config options
 
-Edit config.json and re-run installation commands. List of config options:
+This application generates a `maltego-btc.conf` file under `$HOME/Library/Application Support/maltego-btc/` or `C:\Documents and Settings\<User>\Application Data\Local Settings\maltego-btc\` on windows. This can be tweaked if you want to change the settings. Here is a list of config options:
 
  - ```logfile``` – path to logfile
  - ```cachefile``` – path to cache file
@@ -51,4 +48,4 @@ Edit config.json and re-run installation commands. List of config options:
 ![Screenshot](assets/screenshot-2.png)
 ![Screenshot](assets/screenshot-3.png)
 
-Enjoy responsibly!
+Enjoy!
