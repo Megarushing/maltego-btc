@@ -71,4 +71,9 @@ This application generates a `maltego-btc.conf` file under `$HOME/Library/Applic
 ![Screenshot](assets/screenshot-2.png)
 ![Screenshot](assets/screenshot-3.png)
 
+### Limitations
+
+- Maltego Community Edition has a limitation of only allowing 50 entities per transform, so in case there are too many outputs to a single transaction you may need to run the transform multiple times in order to get all of them, this plugin randomizes the entities it sends every time in order to make this possible.
+- In order to not harm the walletexplorer API, the transform may take a long time to get all transactions, a wait time is intentionally applied between requests is applied on large lists, so be patient.
+
 Enjoy!
