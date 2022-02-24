@@ -60,6 +60,9 @@ This application generates a `maltego-btc.conf` file under `$HOME/Library/Applic
 
 <img width="616" alt="image" src="https://user-images.githubusercontent.com/2642709/155612030-1846af3b-f971-41e4-84db-c144bbc8c9e3.png">
 
+5- Try out organizing with the "organic layout" and setting up "ball size by weight" in order to see the amount of funds being moved
+
+<img width="859" alt="image" src="https://user-images.githubusercontent.com/2642709/155612609-803817e8-35fc-44b4-99bd-35e13b89334e.png">
 
 
 ### Screenshots
