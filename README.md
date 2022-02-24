@@ -12,7 +12,7 @@ Installation:
 - Install Maltego in your computer https://www.maltego.com/ce-registration/
 - Install Blockchain.info Transform by Paterva in the Transform Hub of your maltego
 - Download binary from https://github.com/Megarushing/maltego-btc/releases and save it in /usr/local/bin/
-- In the terminal do chmod +x /usr/local/bin/maltego-btc
+- In the terminal do `chmod +x /usr/local/bin/maltego-btc`
 
 OR To Compile from sources
 - Install GoLang
