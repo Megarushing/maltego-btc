@@ -19,7 +19,7 @@ OR To Compile from sources
 - Do `go install github.com/Megarushing/maltego-btc@latest`
 
 Setting up:
-- Download [maltego-btc.mtz] (https://github.com/Megarushing/maltego-btc/raw/master/maltego-btc.mtz)
+- Download [maltego-btc.mtz] (https://github.com/Megarushing/maltego-btc/raw/main/maltego-btc.mtz)
 - In Maltego go to Import | Export > Import Config
 - Point to the downloaded file and import all transforms, entities and icons
 - Important: In the Transform Manager, find the imported transforms and **Edit** each Transform starting with **BTC**, under command line include your path to maltego-btc executable, this is usually `/usr/local/bin/maltego-btc` or `(User Folder)/go/bin/maltego-btc` when compiled from sources.
