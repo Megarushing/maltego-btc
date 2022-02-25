@@ -13,8 +13,8 @@ Pre-Installation:
 - Install Blockchain.info Transform by Paterva in the Transform Hub of your maltego
 
 Installation:
-- Download binary from https://github.com/Megarushing/maltego-btc/releases and save it in `/usr/local/bin/` on mac, or in Windows `C:\maltego-btc\`
-- In the Mac Terminal do `chmod +x /usr/local/bin/maltego-btc`
+- Download binary from https://github.com/Megarushing/maltego-btc/releases and save it in `/usr/local/bin/` on mac, or in Windows `C:\maltego-btc\`. E.g: `sudo cp maltego-btc /usr/local/bin/`
+- In the Mac Terminal do `sudo chmod +x /usr/local/bin/maltego-btc`
 
 OR To Compile from sources:
 - Install GoLang
